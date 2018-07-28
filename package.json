@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "ajv": "^6.5.2",
     "babel-plugin-emotion": "^9.2.0",
     "connected-react-router": "^4.3.0",
     "create-react-app-parcel-typescript": "0.0.5",
@@ -12,6 +13,7 @@
     "history": "^4.7.2",
     "http2": "^3.3.7",
     "moment": "^2.22.2",
+    "npm": "^6.2.0",
     "polished": "^1.9.3",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",

@@ -1,5 +1,5 @@
 // Example for using discriminated union types.
-export type ThemeColors = 'light' | 'dark'
+export type ThemeColors = 'light'
 
 // Use const enums for better autocompletion of action type names. These will
 // be compiled away leaving only the final value in your compiled code.
